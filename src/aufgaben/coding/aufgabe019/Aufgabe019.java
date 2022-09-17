@@ -1,4 +1,4 @@
-package aufgaben.coding;
+package aufgaben.coding.aufgabe019;
 import java.util.Scanner;
 
 public class Aufgabe019 {

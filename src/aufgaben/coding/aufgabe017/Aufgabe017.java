@@ -1,4 +1,4 @@
-package aufgaben.coding;
+package aufgaben.coding.aufgabe017;
 public class Aufgabe017
 {
 

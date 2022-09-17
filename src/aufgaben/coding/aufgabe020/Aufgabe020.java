@@ -1,4 +1,4 @@
-package aufgaben.coding;
+package aufgaben.coding.aufgabe020;
 import java.util.Random;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package aufgaben.coding;
+package aufgaben.coding.aufgabe016;
 public class Aufgabe016 {
     int count;
 
