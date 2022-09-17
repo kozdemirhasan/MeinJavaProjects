@@ -1,3 +1,4 @@
+package aufgaben.coding;
 import java.util.Scanner;
 
 public class Aufgabe019 {
