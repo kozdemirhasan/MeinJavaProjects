@@ -13,7 +13,7 @@ package aufgaben.coding.aufgabe024;
 		this.counter++;
 		
 		if(this.counter <=this.maxBookZahl) {
-			Book book  = new Book();
+		//	Book book  = new Book();
 			
 		}
 		
